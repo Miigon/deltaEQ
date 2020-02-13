@@ -1,0 +1,423 @@
+# Captured 2020-02-08
+# rtings.com list of all headphones.
+# used in project deltaEQ
+
+1More Piston Classic|headphones/1more/piston-classic
+1More Piston Fit|headphones/1more/piston-fit
+1More Triple Driver In-Ear|headphones/1more/triple-driver-in-ear
+1More Quad Driver In-Ear|headphones/1more/quad-driver-in-ear
+AKG K44|headphones/akg/k44
+AKG K240 MKII|headphones/akg/k240-mkii
+AKG K391-NC|headphones/akg/k391-nc
+AKG K490-NC|headphones/akg/k490-nc
+AKG K701|headphones/akg/k701
+AKG K702|headphones/akg/k702
+AKG K712 PRO|headphones/akg/k712-pro
+AKG Q701|headphones/akg/q701
+AKG N60NC Wireless|headphones/akg/n60nc-wireless
+AKG N200|headphones/akg/n200
+AKG N700NC|headphones/akg/n700nc
+AKG K371|headphones/akg/k371
+AUKEY Latitude |headphones/aukey/latitude
+AfterShokz Trekz Air|headphones/aftershokz/trekz-air
+AfterShokz Aeropex|headphones/aftershokz/aeropex
+Altec Lansing True Evo|headphones/altec-lansing/true-evo
+Amazon Echo Buds|headphones/amazon/echo-buds
+AmazonBasics Lightweight On Ear|headphones/amazonbasics/lightweight-on-ear
+Anker SoundBuds Sport|headphones/anker/soundbuds-sport
+Anker SoundBuds Curve	|headphones/anker/soundbuds-curve
+Anker Soundcore Spirit X|headphones/anker/soundcore-spirit-x
+Anker SoundBuds Life|headphones/anker/soundbuds-life
+Anker SoundCore Liberty Air|headphones/anker/soundcore-liberty-air
+Anker SoundCore Liberty Air 2|headphones/anker/soundcore-liberty-air-2
+Anker SoundCore Space NC|headphones/anker/soundcore-space-nc
+Anker SoundCore Liberty Lite|headphones/anker/soundcore-liberty-lite
+Anker SoundCore Life 2|headphones/anker/soundcore-life-2
+Anker Zolo Liberty+|headphones/anker/zolo-liberty
+Anker SoundCore Life P2|headphones/anker/soundcore-life-p2
+Anker Soundcore Liberty 2 Pro|headphones/anker/soundcore-liberty-2-pro
+Anker SoundBuds Curve Upgraded 2019|headphones/anker/soundbuds-curve-upgraded-2019
+Apple AirPods|headphones/apple/airpods
+Apple AirPods 2 2019|headphones/apple/airpods-2-2019
+Apple AirPods Pro|headphones/apple/airpods-pro
+Apple EarPods|headphones/apple/earpods
+Astro A50|headphones/astro/a50
+Astro A50 Gen 4 2019|headphones/astro/a50-gen-4-2019
+Astro A10|headphones/astro/a10
+Astro A20|headphones/astro/a20
+Astro A40|headphones/astro/a40
+Astro A40 2019|headphones/astro/a40-2019
+Audeze Mobius|headphones/audeze/mobius
+Audeze LCD-1|headphones/audeze/lcd-1
+Audeze LCD2-Classic|headphones/audeze/lcd2-classic
+Audio-Technica ATH-AD700X|headphones/audio-technica/ath-ad700x
+Audio-Technica ATH-ANC7b|headphones/audio-technica/ath-anc7b
+Audio-Technica ATH-ANC7B SVIS|headphones/audio-technica/ath-anc7b-svis
+Audio-Technica ATH-ANC9|headphones/audio-technica/ath-anc9
+Audio-Technica ATH-ANC23|headphones/audio-technica/ath-anc23
+Audio-Technica ATH-ANC27x|headphones/audio-technica/ath-anc27x
+Audio-Technica ATH-ANC29 |headphones/audio-technica/ath-anc29
+Audio-Technica ATH-ANC33iS|headphones/audio-technica/ath-anc33is
+Audio-Technica ATH-ANC70|headphones/audio-technica/ath-anc70
+Audio-Technica ATH-M20x|headphones/audio-technica/ath-m20x
+Audio-Technica ATH-M30x|headphones/audio-technica/ath-m30x
+Audio-Technica ATH-M40x|headphones/audio-technica/ath-m40x
+Audio-Technica ATH-M50x|headphones/audio-technica/ath-m50x
+Audio-Technica ATH-M70x|headphones/audio-technica/ath-m70x
+Audio-Technica ATH-MSR7NC|headphones/audio-technica/ath-msr7nc
+Audio-Technica ATH-M60x|headphones/audio-technica/ath-m60x
+Audio-Technica ATH-M50xBT|headphones/audio-technica/ath-m50xbt
+Audio-Technica ATH-DSR9BT|headphones/audio-technica/ath-dsr9bt
+B&O PLAY Earset 3i|headphones/b-o-play/earset-3i
+B&O PLAY H6|headphones/b-o-play/h6
+B&O PLAY E8|headphones/b-o-play/e8
+B&O PLAY H9|headphones/b-o-play/h9
+B&O PLAY H9i|headphones/b-o-play/h9i
+B&O PLAY Earset Wireless|headphones/b-o-play/earset-wireless
+B&O PLAY E8 2.0|headphones/b-o-play/e8-2-0
+BGVP DM6|headphones/bgvp/dm6
+BRAINWAVZ HM5|headphones/brainwavz/hm5
+Beats BeatsX|headphones/beats/beatsx
+Beats Powerbeats 2 Wireless|headphones/beats/powerbeats-2-wireless
+Beats Executive|headphones/beats/executive
+Beats EP On-Ear|headphones/beats/ep-on-ear
+Beats Solo2 Wireless|headphones/beats/solo2-wireless
+Beats Solo3 Wireless|headphones/beats/solo3-wireless
+Beats Studio Wireless|headphones/beats/studio-wireless
+Beats urBeats|headphones/beats/urbeats
+Beats urBeats3|headphones/beats/urbeats3
+Beats Studio3 Wireless|headphones/beats/studio3-wireless
+Beats Powerbeats3 Wireless|headphones/beats/powerbeats3-wireless
+Beats Powerbeats Pro|headphones/beats/powerbeats-pro
+Beats Solo Pro|headphones/beats/solo-pro
+Betron YSM1000|headphones/betron/ysm1000
+Beyerdynamic DT 770 Pro|headphones/beyerdynamic/dt-770-pro
+Beyerdynamic DT 880|headphones/beyerdynamic/dt-880
+Beyerdynamic DT 990 PRO|headphones/beyerdynamic/dt-990-pro
+Beyerdynamic DT 1990 PRO|headphones/beyerdynamic/dt-1990-pro
+Beyerdynamic DT 1770 PRO|headphones/beyerdynamic/dt-1770-pro
+Beyerdynamic T1 2nd Generation|headphones/beyerdynamic/t1-2nd-generation
+Bluedio T2S Turbine|headphones/bluedio/t2s-turbine
+Bluedio T3 Plus|headphones/bluedio/t3-plus
+Bluedio T4|headphones/bluedio/t4
+Bluedio U Plus|headphones/bluedio/u-plus
+Bose QuietComfort 20|headphones/bose/quietcomfort-20
+Bose QuietComfort 25|headphones/bose/quietcomfort-25
+Bose QuietComfort 35|headphones/bose/quietcomfort-35
+Bose QuietControl 30|headphones/bose/quietcontrol-30
+Bose SoundLink Around-Ear II|headphones/bose/soundlink-around-ear-ii
+Bose SoundLink On-Ear|headphones/bose/soundlink-on-ear
+Bose SoundSport In-Ear|headphones/bose/soundsport-in-ear
+Bose SoundSport Wireless|headphones/bose/soundsport-wireless
+Bose SoundTrue Around-Ear II|headphones/bose/soundtrue-around-ear-ii
+Bose SoundTrue Ultra In-Ear|headphones/bose/soundtrue-ultra-in-ear
+Bose SoundSport Free|headphones/bose/soundsport-free
+Bose QuietComfort 35 II|headphones/bose/quietcomfort-35-ii
+Bose SoundWear|headphones/bose/soundwear
+Bose Hearphones|headphones/bose/hearphones
+Bose Noise Cancelling Headphones 700|headphones/bose/noise-cancelling-headphones-700
+Bowers & Wilkins P5 S2|headphones/bowers-wilkins/p5-s2
+Bowers & Wilkins P5 Wireless|headphones/bowers-wilkins/p5-wireless
+Bowers & Wilkins P7|headphones/bowers-wilkins/p7
+Bowers & Wilkins PX|headphones/bowers-wilkins/px
+Bowers & Wilkins PX7|headphones/bowers-wilkins/px7
+BÖHM B-66|headphones/bohm/b-66
+Cambridge Audio Melomania 1|headphones/cambridge-audio/melomania-1
+Corsair Void RGB|headphones/corsair/void-rgb
+Corsair HS60|headphones/corsair/hs60
+Corsair HS70 Wireless|headphones/corsair/hs70-wireless
+Corsair HS50|headphones/corsair/hs50
+Corsair Virtuoso RGB Wireless|headphones/corsair/virtuoso-rgb-wireless
+Cougar Immersa|headphones/cougar/immersa
+Cowin E7|headphones/cowin/e7
+Cowin E7 Pro|headphones/cowin/e7-pro
+Cowin E8|headphones/cowin/e8
+Cowin SE7|headphones/cowin/se7
+Creative Aurvana Gold|headphones/creative/aurvana-gold
+Creative Aurvana Platinum|headphones/creative/aurvana-platinum
+Creative HN-900|headphones/creative/hn-900
+Creative Sound Blaster EVO ZxR|headphones/creative/sound-blaster-evo-zxr
+Creative Sound BlasterX H5|headphones/creative/sound-blasterx-h5
+Creative SXFI Air|headphones/creative/sxfi-air
+Creative Outlier Air|headphones/creative/outlier-air
+Denon AHGC20|headphones/denon/ahgc20
+Diskin Wireless Bluetooth|headphones/diskin/wireless-bluetooth
+Dolby Dimension|headphones/dolby/dimension
+EarFun Free|headphones/earfun/free
+Etymotic ER4XR|headphones/etymotic/er4xr
+Etymotic HF5|headphones/etymotic/hf5
+Fitbit Flyer|headphones/fitbit/flyer
+Focal Elear|headphones/focal/elear
+Focal Elegia|headphones/focal/elegia
+Focal Stellia|headphones/focal/stellia
+Google Pixel Buds|headphones/google/pixel-buds
+Grado GW100|headphones/grado/gw100
+Grado SR60e|headphones/grado/sr60e
+Grado SR80e|headphones/grado/sr80e
+Grado SR125e|headphones/grado/sr125e
+Grado SR225e|headphones/grado/sr225e
+Grado SR325e|headphones/grado/sr325e
+Harman/Kardon NC|headphones/harman-kardon/nc
+HiFiMan Edition X|headphones/hifiman/edition-x
+HiFiMan HE-400i|headphones/hifiman/he-400i
+HiFiMan Sundara|headphones/hifiman/sundara
+HiFiMan Ananda|headphones/hifiman/ananda
+HyperX Cloud II|headphones/hyperx/cloud-ii
+HyperX Cloud Revolver|headphones/hyperx/cloud-revolver
+HyperX Cloud Stinger|headphones/hyperx/cloud-stinger
+HyperX Cloud Alpha|headphones/hyperx/cloud-alpha
+HyperX Cloud Flight|headphones/hyperx/cloud-flight
+HyperX Cloud Mix|headphones/hyperx/cloud-mix
+HyperX Cloud Core|headphones/hyperx/cloud-core
+JBL E50BT|headphones/jbl/e50bt
+JBL Everest 110|headphones/jbl/everest-110
+JBL Everest 310|headphones/jbl/everest-310
+JBL Everest Elite 700 |headphones/jbl/everest-elite-700
+JBL Everest 710|headphones/jbl/everest-710
+JBL E55BT|headphones/jbl/e55bt
+JBL E45BT|headphones/jbl/e45bt
+JBL Free|headphones/jbl/free
+JBL E25BT|headphones/jbl/e25bt
+JBL Endurance Sprint|headphones/jbl/endurance-sprint
+JBL T450BT|headphones/jbl/t450bt
+JBL E65BTNC|headphones/jbl/e65btnc
+JBL Reflect Mini 2|headphones/jbl/reflect-mini-2
+JBL Endurance Peak|headphones/jbl/endurance-peak
+JBL Free X|headphones/jbl/free-x
+JBL Live 650BTNC|headphones/jbl/live-650btnc
+JBL Endurance Dive|headphones/jbl/endurance-dive
+JBL Live 200BT|headphones/jbl/live-200bt
+JBL UA True Wireless Flash|headphones/jbl/ua-true-wireless-flash
+JBL Live 500BT|headphones/jbl/live-500bt
+JBL Live 400BT|headphones/jbl/live-400bt
+JBL Tune 120|headphones/jbl/tune-120
+JBL Reflect Flow|headphones/jbl/reflect-flow
+JLab Audio JBuds Air|headphones/jlab-audio/jbuds-air
+Jabra Elite 65t|headphones/jabra/elite-65t
+Jabra Elite Sport|headphones/jabra/elite-sport
+Jabra Elite 65e|headphones/jabra/elite-65e
+Jabra Elite 25e|headphones/jabra/elite-25e
+Jabra Elite Active 65t|headphones/jabra/elite-active-65t
+Jabra Elite 45e|headphones/jabra/elite-45e
+Jabra Evolve 65t|headphones/jabra/evolve-65t
+Jabra Elite 85h|headphones/jabra/elite-85h
+Jabra Elite Active 45e|headphones/jabra/elite-active-45e
+Jabra Elite 75t|headphones/jabra/elite-75t
+Jaybird X2|headphones/jaybird/x2
+Jaybird X3|headphones/jaybird/x3
+Jaybird Freedom|headphones/jaybird/freedom
+Jaybird Run|headphones/jaybird/run
+Jaybird Run XT|headphones/jaybird/run-xt
+Jaybird Freedom 2|headphones/jaybird/freedom-2
+Jaybird X4|headphones/jaybird/x4
+Jaybird Tarah|headphones/jaybird/tarah
+Jaybird Tarah Pro|headphones/jaybird/tarah-pro
+Jaybird Vista|headphones/jaybird/vista
+KZ ZS-10|headphones/kz/zs-10
+KZ AS-10|headphones/kz/as-10
+KZ ZSN|headphones/kz/zsn
+KZ ZST|headphones/kz/zst
+Klipsch T5 True Wireless|headphones/klipsch/t5-true-wireless
+Koss KSC75|headphones/koss/ksc75
+Koss Porta Pro |headphones/koss/porta-pro
+Koss QZ900|headphones/koss/qz900
+Koss QZPro|headphones/koss/qzpro
+Koss UR-20|headphones/koss/ur-20
+Koss Porta Pro Wireless|headphones/koss/porta-pro-wireless
+Logitech G430|headphones/logitech/g430
+Logitech G432|headphones/logitech/g432
+Logitech G433|headphones/logitech/g433
+Logitech G533|headphones/logitech/g533
+Logitech G635|headphones/logitech/g635
+Logitech G930|headphones/logitech/g930
+Logitech G933|headphones/logitech/g933
+Logitech G935|headphones/logitech/g935
+Logitech G Pro|headphones/logitech/g-pro
+Logitech G Pro X|headphones/logitech/g-pro-x
+LucidSound LS31|headphones/lucidsound/ls31
+MEE audio M6|headphones/mee-audio/m6
+MEE audio M6 PRO|headphones/mee-audio/m6-pro
+MEE audio X6 Plus|headphones/mee-audio/x6-plus
+MEE audio X7|headphones/mee-audio/x7
+MEE audio M9B|headphones/mee-audio/m9b
+Marshall Major II|headphones/marshall/major-ii
+Marshall MID ANC|headphones/marshall/mid-anc
+Microsoft Surface Headphones|headphones/microsoft/surface-headphones
+Mixcder E9|headphones/mixcder/e9
+Monoprice Enhanced Active|headphones/monoprice/enhanced-active
+Monoprice Noise Cancelling|headphones/monoprice/noise-cancelling
+Monster Inspiration|headphones/monster/inspiration
+Mpow Bluetooth Over-Ear|headphones/mpow/bluetooth-over-ear
+Mpow Jaws|headphones/mpow/jaws
+Mpow H5|headphones/mpow/h5
+Mpow H10|headphones/mpow/h10
+NAD VISO HP50|headphones/nad/viso-hp50
+Noontec Hammo Go|headphones/noontec/hammo-go
+Nura Nuraphone|headphones/nura/nuraphone
+Oppo PM-3|headphones/oppo/pm-3
+Panasonic RP-HC56|headphones/panasonic/rp-hc56
+Panasonic RP-HC101|headphones/panasonic/rp-hc101
+Panasonic RP-HC200|headphones/panasonic/rp-hc200
+Panasonic RP-HC800|headphones/panasonic/rp-hc800
+Panasonic RP-HJE120|headphones/panasonic/rp-hje120
+Parrot Zik 2.0|headphones/parrot/zik-2-0
+Parrot Zik 3.0|headphones/parrot/zik-3-0
+Philips Fidelio NC1|headphones/philips/fidelio-nc1
+Philips SHP9500|headphones/philips/shp9500
+Plane Quiet Platinum|headphones/plane-quiet/platinum
+Plantronics Backbeat Pro|headphones/plantronics/backbeat-pro
+Plantronics BackBeat Pro 2|headphones/plantronics/backbeat-pro-2
+Plantronics RIG 800LX|headphones/plantronics/rig-800lx
+Plantronics BackBeat Go 600|headphones/plantronics/backbeat-go-600
+Plantronics Backbeat Go 810|headphones/plantronics/backbeat-go-810
+Plantronics BackBeat Fit|headphones/plantronics/backbeat-fit
+Polk Audio Buckle|headphones/polk-audio/buckle
+Polk Audio UltraFocus 8000|headphones/polk-audio/ultrafocus-8000
+RHA TrueConnect|headphones/rha/trueconnect
+Raycon E25|headphones/raycon/e25
+Raycon E50|headphones/raycon/e50
+Raycon E55|headphones/raycon/e55
+Raycon E100|headphones/raycon/e100
+Razer Kraken USB|headphones/razer/kraken-usb
+Razer Kraken Pro V2|headphones/razer/kraken-pro-v2
+Razer Kraken Tournament Edition|headphones/razer/kraken-tournament-edition
+Razer Man O&#39; War |headphones/razer/man-o-war
+Razer Nari Ultimate|headphones/razer/nari-ultimate
+Razer Kraken X|headphones/razer/kraken-x
+Razer Hammerhead True Wireless|headphones/razer/hammerhead-true-wireless
+Rovking V1|headphones/rovking/v1
+SENSO ActivBuds S-250|headphones/senso/activbuds-s-250
+SMS Audio STREET by 50 Active Noise Cancelling|headphones/sms-audio/street-by-50-active-noise-cancelling
+Sabbat E12|headphones/sabbat/e12
+Samsung Level On Wireless|headphones/samsung/level-on-wireless
+Samsung Level Over Wireless|headphones/samsung/level-over-wireless
+Samsung Level U Pro|headphones/samsung/level-u-pro
+Samsung Gear IconX|headphones/samsung/gear-iconx
+Samsung Galaxy Buds|headphones/samsung/galaxy-buds
+Samsung U Flex|headphones/samsung/u-flex
+Sennheiser CXC-700|headphones/sennheiser/cxc-700
+Sennheiser Game One|headphones/sennheiser/game-one
+Sennheiser HD1 In-Ear Wireless|headphones/sennheiser/hd1-in-ear-wireless
+Sennheiser HD 4.50|headphones/sennheiser/hd-4-50
+Sennheiser HD 201|headphones/sennheiser/hd-201
+Sennheiser HD 202 II|headphones/sennheiser/hd-202-ii
+Sennheiser HD 280 Pro|headphones/sennheiser/hd-280-pro
+Sennheiser HD 518|headphones/sennheiser/hd-518
+Sennheiser HD 598|headphones/sennheiser/hd-598
+Sennheiser HD 598 Cs|headphones/sennheiser/hd-598-cs
+Sennheiser HD 599|headphones/sennheiser/hd-599
+Sennheiser HD 600|headphones/sennheiser/hd-600
+Sennheiser HD 650|headphones/sennheiser/hd-650
+Sennheiser HD 660 S|headphones/sennheiser/hd-660-s
+Sennheiser HD 700|headphones/sennheiser/hd-700
+Sennheiser HD 800 S|headphones/sennheiser/hd-800-s
+Sennheiser Momentum 2.0|headphones/sennheiser/momentum-2-0
+Sennheiser Momentum 2.0 Wireless|headphones/sennheiser/momentum-2-0-wireless
+Sennheiser Momentum 2.0 On-Ear|headphones/sennheiser/momentum-2-0-on-ear
+Sennheiser Momentum In-Ear|headphones/sennheiser/momentum-in-ear
+Sennheiser MM 450-X|headphones/sennheiser/mm-450-x
+Sennheiser MM 550-X|headphones/sennheiser/mm-550-x
+Sennheiser PXC 250 II|headphones/sennheiser/pxc-250-ii
+Sennheiser PXC 450|headphones/sennheiser/pxc-450
+Sennheiser PXC 550 Wireless|headphones/sennheiser/pxc-550-wireless
+Sennheiser PXC 550-II Wireless|headphones/sennheiser/pxc-550-ii-wireless
+Sennheiser RS 165|headphones/sennheiser/rs-165
+Sennheiser RS 175|headphones/sennheiser/rs-175
+Sennheiser RS 185|headphones/sennheiser/rs-185
+Sennheiser RS 195|headphones/sennheiser/rs-195
+Sennheiser AMBEO Smart Headset|headphones/sennheiser/ambeo-smart-headset
+Sennheiser HD 820|headphones/sennheiser/hd-820
+Sennheiser Momentum True Wireless|headphones/sennheiser/momentum-true-wireless
+Sennheiser HD 4.40|headphones/sennheiser/hd-4-40
+Sennheiser IE 40 PRO|headphones/sennheiser/ie-40-pro
+Sennheiser HD 58X Jubilee|headphones/sennheiser/hd-58x-jubilee
+Sennheiser Momentum 3 Wireless|headphones/sennheiser/momentum-3-wireless
+Shure SE315|headphones/shure/se315
+Shure SE425|headphones/shure/se425
+Shure SRH240A|headphones/shure/srh240a
+Shure SRH440|headphones/shure/srh440
+Shure SE215|headphones/shure/se215
+Skullcandy Crusher|headphones/skullcandy/crusher
+Skullcandy Grind|headphones/skullcandy/grind
+Skullcandy Hesh 2|headphones/skullcandy/hesh-2
+Skullcandy Hesh 3|headphones/skullcandy/hesh-3
+Skullcandy Jib|headphones/skullcandy/jib
+Skullcandy Crusher Wireless|headphones/skullcandy/crusher-wireless
+Skullcandy Crusher 360|headphones/skullcandy/crusher-360
+Skullcandy Venue|headphones/skullcandy/venue
+Skullcandy Push|headphones/skullcandy/push
+Skullcandy Indy|headphones/skullcandy/indy
+Skullcandy Sesh|headphones/skullcandy/sesh
+Sony MDR-1A|headphones/sony/mdr-1a
+Sony MDR-100AAP|headphones/sony/mdr-100aap
+Sony MDR-1000X|headphones/sony/mdr-1000x
+Sony MDR-7506|headphones/sony/mdr-7506
+Sony MDR-NC8|headphones/sony/mdr-nc8
+Sony MDR-XB50AP|headphones/sony/mdr-xb50ap
+Sony MDR-XB950B1|headphones/sony/mdr-xb950b1
+Sony MDR-XB950N1|headphones/sony/mdr-xb950n1
+Sony MDR-ZX110NC|headphones/sony/mdr-zx110nc
+Sony MDR-ZX550BN|headphones/sony/mdr-zx550bn
+Sony MDR-ZX770BN|headphones/sony/mdr-zx770bn
+Sony WH-1000XM2|headphones/sony/wh-1000xm2
+Sony WF-1000X|headphones/sony/wf-1000x
+Sony WI-C400|headphones/sony/wi-c400
+Sony WH-H900N|headphones/sony/wh-h900n
+Sony WI-C300|headphones/sony/wi-c300
+Sony WH-CH700N|headphones/sony/wh-ch700n
+Sony WF-SP700N|headphones/sony/wf-sp700n
+Sony WI-SP500|headphones/sony/wi-sp500
+Sony WH-1000XM3|headphones/sony/wh-1000xm3
+Sony MDR-7520|headphones/sony/mdr-7520
+Sony WI-SP600N|headphones/sony/wi-sp600n
+Sony WI-1000X|headphones/sony/wi-1000x
+Sony WH-CH500|headphones/sony/wh-ch500
+Sony WH-CH400|headphones/sony/wh-ch400
+Sony WI-C600N|headphones/sony/wi-c600n
+Sony WH-XB700|headphones/sony/wh-xb700
+Sony WH-XB900N|headphones/sony/wh-xb900n
+Sony WI-C310|headphones/sony/wi-c310
+Sony WI-C200|headphones/sony/wi-c200
+Sony WF-1000XM3|headphones/sony/wf-1000xm3
+Sony WI-XB400|headphones/sony/wi-xb400
+Sound Intone CX-05|headphones/sound-intone/cx-05
+SoundPeats Q8|headphones/soundpeats/q8
+SoundPeats Q9A|headphones/soundpeats/q9a
+SoundPeats TrueFree|headphones/soundpeats/truefree
+SoundPeats QY8|headphones/soundpeats/qy8
+SoundPeats QY9|headphones/soundpeats/qy9
+Stax SR-L300|headphones/stax/sr-l300
+SteelSeries Arctis 7|headphones/steelseries/arctis-7
+SteelSeries Siberia 200|headphones/steelseries/siberia-200
+SteelSeries Arctis Pro GameDAC|headphones/steelseries/arctis-pro-gamedac
+SteelSeries Arctis Pro Wireless|headphones/steelseries/arctis-pro-wireless
+SteelSeries Arctis 7 2019 Edition|headphones/steelseries/arctis-7-2019-edition
+SteelSeries Arctis 5 2019 Edition|headphones/steelseries/arctis-5-2019-edition
+SteelSeries Arctis 3 2019 Edition|headphones/steelseries/arctis-3-2019-edition
+SteelSeries Arctis 9X|headphones/steelseries/arctis-9x
+SteelSeries Arctis 1|headphones/steelseries/arctis-1
+Superlux HD 681|headphones/superlux/hd-681
+Superlux HD 681 EVO|headphones/superlux/hd-681-evo
+Superlux HD 668B|headphones/superlux/hd-668b
+Swimbuds Swimbuds|headphones/swimbuds/swimbuds
+Symphonized NRG 3.0|headphones/symphonized/nrg-3-0
+TIN Audio T2|headphones/tin-audio/t2
+TIN Audio T3|headphones/tin-audio/t3
+TREBLAB X5|headphones/treblab/x5
+TaoTronics TT-BH060|headphones/taotronics/tt-bh060
+Tascam TH-02|headphones/tascam/th-02
+Turtle Beach Elite 800|headphones/turtle-beach/elite-800
+Turtle Beach Stealth 600|headphones/turtle-beach/stealth-600
+Turtle Beach Stealth 700|headphones/turtle-beach/stealth-700
+Turtle Beach Recon 50X|headphones/turtle-beach/recon-50x
+Turtle Beach Stealth 300|headphones/turtle-beach/stealth-300
+Turtle Beach Elite Pro 2 SuperAmp|headphones/turtle-beach/elite-pro-2-superamp
+Turtle Beach Elite Atlas|headphones/turtle-beach/elite-atlas
+Turtle Beach Recon 200|headphones/turtle-beach/recon-200
+Turtle Beach Recon 70|headphones/turtle-beach/recon-70
+V-MODA Crossfade M-100|headphones/v-moda/crossfade-m-100
+V-MODA Crossfade II Wireless|headphones/v-moda/crossfade-ii-wireless
+V-MODA BassFit Wireless|headphones/v-moda/bassfit-wireless
+Venstone X1|headphones/venstone/x1
+Westone W40|headphones/westone/w40
+XFYRO xS2|headphones/xfyro/xs2
